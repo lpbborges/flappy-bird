@@ -4,7 +4,7 @@
 
 ## How to play
 
-Just access https://lpbborges.github.io/flappy-bird/ and tap 'Space' to move the bird
+Just access https://lpbborges.github.io/flappy-bird/ and press 'Space' repeteadly to move the bird
 
 ## How to clone
 
