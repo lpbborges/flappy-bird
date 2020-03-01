@@ -8,7 +8,7 @@ Just access https://lpbborges.github.io/flappy-bird/ and press 'Space' repeteadl
 
 ## How to clone
 
-Use [git](https://github.com/lpbborges/flappy-bird) clone para clonar o FlappyBird.
+Use [git](https://github.com/lpbborges/flappy-bird) to clone FlappyBird.
 
 ```bash
 git clone https://github.com/lpbborges/flappy-bird.git
@@ -16,6 +16,5 @@ git clone https://github.com/lpbborges/flappy-bird.git
 
 This project was developed following the example in [Modern Web Course by COD3R](https://www.cod3r.com.br/). 
 
-
 ## Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+[LICENSE](LICENSE.md) for more details.
